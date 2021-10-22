@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanDataWrike", "CleanDataWrike\CleanDataWrike.csproj", "{AF86492E-73DB-45B6-B453-E95D57EF5AB5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorSTCCleanDataWrike", "InstaladorSTCCleanDataWrike\InstaladorSTCCleanDataWrike.vdproj", "{B0579B64-AB9B-41B4-93EF-1B195514D055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF86492E-73DB-45B6-B453-E95D57EF5AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF86492E-73DB-45B6-B453-E95D57EF5AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF86492E-73DB-45B6-B453-E95D57EF5AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF86492E-73DB-45B6-B453-E95D57EF5AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0579B64-AB9B-41B4-93EF-1B195514D055}.Debug|Any CPU.ActiveCfg = Debug
+		{B0579B64-AB9B-41B4-93EF-1B195514D055}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C021CC-467D-4454-80A3-D537592A4721}
+	EndGlobalSection
+EndGlobal
